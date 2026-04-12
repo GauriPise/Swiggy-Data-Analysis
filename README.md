@@ -378,8 +378,10 @@ This project demonstrates:
 ### Power BI Dashboard 
 <img src="https://github.com/GauriPise/Swiggy-Data-Analysis/blob/main/Screenshot 2026-04-09 164734.png" width="1000"> <br> 
 
----
+
 <img src="https://github.com/GauriPise/Swiggy-Data-Analysis/blob/main/Screenshot 2026-04-09 164807.png" width="1000"> <br> 
+
+--- 
 
 ### Tableau Dashboard
 <img src="https://github.com/GauriPise/Swiggy-Data-Analysis/blob/main/Picture1.jpg" width="1000"> <br>
